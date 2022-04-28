@@ -13,3 +13,12 @@ ul li,
 ol li {
 	color: green;
 }
+ul li {
+	color: red !important;
+}
+.uno {
+	background-color: green;
+}
+table tr:nth-child(odd) {
+	background-color: yellow;
+}

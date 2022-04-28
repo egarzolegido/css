@@ -2,5 +2,9 @@ body {
 	background: #bdbdbd;
 }
 .rounded {
-	border-radius: 100%;
+	width: 400px;
+	height: 400px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
 }
